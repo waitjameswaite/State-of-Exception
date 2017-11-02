@@ -1,0 +1,19 @@
+{
+  "name": "state_of_exception",
+  "version": "1.0.0",
+  "description": "Preliminary sketch.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waitjameswaite/State-of-Exception.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waitjameswaite/State-of-Exception/issues"
+  },
+  "homepage": "https://github.com/waitjameswaite/State-of-Exception#readme"
+}
